@@ -1,0 +1,14 @@
+layout_spectrum: 0.9217443
+color:
+  saturation: 0.6637075
+  brandStrength: 0.834528
+  lightness: 0.6589008
+  brandColors:
+    - '#FEFAEF'
+    - '#8A7F89'
+    - '#010103'
+    - '#FEFB16'
+    - '#56524F'
+  rhythmicContrast: 0.2592075
+typography_spectrum: 0.6409796
+name: '#shinyobjects'
